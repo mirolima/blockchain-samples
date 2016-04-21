@@ -96,3 +96,6 @@ These IDs are 128 character hashes that should not trailing nor leading spaces. 
 **Secure Context**: The secure context for doing POST requests to the API endpoint, if necessary.
 
 **Number of blocks to display**: The number of blocks to display from the blockchain. For instance, if this value was `10`, the most recent 10 blocks would show up on the blockchain display.
+
+Developer Overview
+----------------------------
